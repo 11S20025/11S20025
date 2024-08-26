@@ -43,16 +43,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/11S20025">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=11S20025&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/antonnababan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonnababan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/11S20025">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=11S20025&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/antonnababan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonnababan&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=11S20025&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=antonnababan&theme=dark&hide_border=true"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
